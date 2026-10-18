@@ -46,9 +46,6 @@ The `scripts.py` file contains the Python implementations, while
 the `printouts/` directory stores the corresponding HackerRank
 submission evidence.
 
-For more information about the exercises, visit
-[HackerRank](https://www.hackerrank.com/).
-
 ## Course
 
 Algorithmic Methods of Data Mining — Homework 1
